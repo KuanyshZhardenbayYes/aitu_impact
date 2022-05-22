@@ -4,25 +4,25 @@ import random
 
 from .models import *
 
-items1 = ['static/Mainpage/img/sub4.png', 'static/Mainpage/img/sub5.png']
-items2 = ['static/Mainpage/img/sub1.png', 'static/Mainpage/img/sub2.png', 'static/Mainpage/img/sub3.png',
-          'static/Mainpage/img/sub6.png', 'static/Mainpage/img/sub7.png']
-items3 = ['static/Mainpage/img/sub1.png', 'static/Mainpage/img/sub2.png', 'static/Mainpage/img/sub3.png',
-          'static/Mainpage/img/sub6.png', 'static/Mainpage/img/sub7.png']
-items4 = ['static/Mainpage/img/sub1.png', 'static/Mainpage/img/sub2.png', 'static/Mainpage/img/sub3.png',
-          'static/Mainpage/img/sub6.png', 'static/Mainpage/img/sub7.png']
-items5 = ['static/Mainpage/img/sub1.png', 'static/Mainpage/img/sub2.png', 'static/Mainpage/img/sub3.png',
-          'static/Mainpage/img/sub6.png', 'static/Mainpage/img/sub7.png']
-items6 = ['static/Mainpage/img/sub1.png', 'static/Mainpage/img/sub2.png', 'static/Mainpage/img/sub3.png',
-          'static/Mainpage/img/sub6.png', 'static/Mainpage/img/sub7.png']
-items7 = ['static/Mainpage/img/sub1.png', 'static/Mainpage/img/sub2.png', 'static/Mainpage/img/sub3.png',
-          'static/Mainpage/img/sub6.png', 'static/Mainpage/img/sub7.png']
-items8 = ['static/Mainpage/img/sub4.png', 'static/Mainpage/img/sub5.png']
-items9 = ['static/Mainpage/img/sub1.png', 'static/Mainpage/img/sub2.png', 'static/Mainpage/img/sub3.png',
-          'static/Mainpage/img/sub6.png', 'static/Mainpage/img/sub7.png']
-items10 = ['static/Mainpage/img/sub1.png', 'static/Mainpage/img/sub2.png', 'static/Mainpage/img/sub3.png',
-           'static/Mainpage/img/sub6.png', 'static/Mainpage/img/sub7.png']
-teachers = ['static/Mainpage/img/t1.png', 'static/Mainpage/img/t2.png', 'static/Mainpage/img/t3.png']
+items1 = ['../static/Mainpage/img/sub4.png', '../static/Mainpage/img/sub5.png', '../static/Mainpage/img/sub8.png']
+items8 = ['../static/Mainpage/img/sub1.png', '../static/Mainpage/img/sub2.png', '../static/Mainpage/img/sub3.png',
+          '../static/Mainpage/img/sub6.png', '../static/Mainpage/img/sub7.png']
+items3 = ['../static/Mainpage/img/sub1.png', '../static/Mainpage/img/sub2.png', '../static/Mainpage/img/sub3.png',
+          '../static/Mainpage/img/sub6.png', '../static/Mainpage/img/sub7.png']
+items4 = ['../static/Mainpage/img/sub1.png', '../static/Mainpage/img/sub2.png', '../static/Mainpage/img/sub3.png',
+          '../static/Mainpage/img/sub6.png', '../static/Mainpage/img/sub7.png']
+items5 = ['../static/Mainpage/img/sub1.png', '../static/Mainpage/img/sub2.png', '../static/Mainpage/img/sub3.png',
+          '../static/Mainpage/img/sub6.png', '../static/Mainpage/img/sub7.png']
+items6 = ['../static/Mainpage/img/sub1.png', '../static/Mainpage/img/sub2.png', '../static/Mainpage/img/sub3.png',
+          '../static/Mainpage/img/sub6.png', '../static/Mainpage/img/sub7.png']
+items7 = ['../static/Mainpage/img/sub1.png', '../static/Mainpage/img/sub2.png', '../static/Mainpage/img/sub3.png',
+          '../static/Mainpage/img/sub6.png', '../static/Mainpage/img/sub7.png']
+items2 = ['../static/Mainpage/img/sub4.png', '../static/Mainpage/img/sub5.png', '../static/Mainpage/img/sub8.png']
+items9 = ['../static/Mainpage/img/sub1.png', '../static/Mainpage/img/sub2.png', '../static/Mainpage/img/sub3.png',
+          '../static/Mainpage/img/sub6.png', '../static/Mainpage/img/sub7.png']
+items10 = ['../static/Mainpage/img/sub1.png', '../static/Mainpage/img/sub2.png', '../static/Mainpage/img/sub3.png',
+           '../static/Mainpage/img/sub6.png', '../static/Mainpage/img/sub7.png']
+teachers = ['../static/Mainpage/img/t1.png', '../static/Mainpage/img/t2.png', '../static/Mainpage/img/t3.png']
 
 
 

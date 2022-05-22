@@ -6,23 +6,23 @@
 
 {% block content %}
 	<div style="text-align: center">
-		<img src={{ teacher }} alt="item picture" width="700" height="350">
-		<img src={{ items1 }} alt="item picture" width="100" height="200" class="item1">
-		<img src={{ items2 }} alt="item picture" width="100" height="200" class="item2">
-		<img src={{ items3 }} alt="item picture" width="100" height="200" class="item3">
-		<img src={{ items4 }} alt="item picture" width="100" height="200" class="item4">
-		<img src={{ items5 }} alt="item picture" width="100" height="200" class="item5">
-		<img src={{ items6 }} alt="item picture" width="100" height="200" class="item6">
-		<img src={{ items7 }} alt="item picture" width="100" height="200" class="item7">
-		<img src={{ items8 }} alt="item picture" width="100" height="200" class="item8">
-		<img src={{ items9 }} alt="item picture" width="100" height="200" class="item9">
-		<img src={{ items10 }} alt="item picture" width="100" height="200" class="item10">
+		<img style="position: absolute; top: 115px; right: 400px;" src={{ teacher }} alt="item picture" width="700" height="450">
+		<img style="position: absolute; top: 215px; right: 400px; margin-top: 350px; margin-right: 750px;" src={{ items1 }} alt="item picture" width="100" height="150" class="item1">
+		<img style="position: absolute; top: 215px; right: 400px; margin-top: 350px; margin-right: 650px;" src={{ items2 }} alt="item picture" width="100" height="150" class="item2">
+		<img style="position: absolute; top: 215px; right: 400px; margin-top: 350px; margin-right: 550px;" src={{ items3 }} alt="item picture" width="100" height="150" class="item3">
+		<img style="position: absolute; top: 215px; right: 400px; margin-top: 350px; margin-right: 450px;" src={{ items4 }} alt="item picture" width="100" height="150" class="item4">
+		<img style="position: absolute; top: 215px; right: 400px; margin-top: 350px; margin-right: 350px;" src={{ items5 }} alt="item picture" width="100" height="150" class="item5">
+		<img style="position: absolute; top: 215px; right: 400px; margin-top: 350px; margin-right: 250px;" src={{ items6 }} alt="item picture" width="100" height="150" class="item6">
+		<img style="position: absolute; top: 215px; right: 400px; margin-top: 350px; margin-right: 150px;" src={{ items7 }} alt="item picture" width="100" height="150" class="item7">
+		<img style="position: absolute; top: 215px; right: 400px; margin-top: 350px; margin-right: 50px;" src={{ items8 }} alt="item picture" width="100" height="150" class="item8">
+		<img style="position: absolute; top: 215px; right: 400px; margin-top: 350px; margin-right: -50px;" src={{ items9 }} alt="item picture" width="100" height="150" class="item9">
+		<img style="position: absolute; top: 215px; right: 400px; margin-top: 350px; margin-right: -150px;" src={{ items10 }} alt="item picture" width="100" height="150" class="item10">
 	</div>
-	<div class="close-btn">
+	<div style="position: absolute; top: 120px; right: 255px;">
 		<a href='/'>
-			<img src="{% static 'Mainpage/img/close.png' %}"
-			onmouseover=this.src="{% static 'Mainpage/img/close-hover.png' %}"
-			onmouseout=this.src="{% static 'Mainpage/img/close.png' %}"
+			<img src="{% static 'Mainpage/img/close-hover.png' %}"
+			onmouseover=this.src="{% static 'Mainpage/img/close.png' %}"
+			onmouseout=this.src="{% static 'Mainpage/img/close-hover.png' %}"
 			alt="Close" width="60" height="60">
 		</a>
 	</div>
