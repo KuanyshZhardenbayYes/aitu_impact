@@ -22,7 +22,7 @@ items9 = ['../static/Mainpage/img/sub1.png', '../static/Mainpage/img/sub2.png', 
           '../static/Mainpage/img/sub6.png', '../static/Mainpage/img/sub7.png']
 items10 = ['../static/Mainpage/img/sub1.png', '../static/Mainpage/img/sub2.png', '../static/Mainpage/img/sub3.png',
            '../static/Mainpage/img/sub6.png', '../static/Mainpage/img/sub7.png']
-teachers = ['../static/Mainpage/img/t1.png', '../static/Mainpage/img/t2.png', '../static/Mainpage/img/t3.png']
+teachers = ['../static/Mainpage/img/t1.png', '../static/Mainpage/img/t2.png', '../static/Mainpage/img/t3.png','../static/Mainpage/img/t1.png', '../static/Mainpage/img/t2.png', '../static/Mainpage/img/t3.png','../static/Mainpage/img/t1.png', '../static/Mainpage/img/t2.png', '../static/Mainpage/img/t3.png','../static/Mainpage/img/t1.png', '../static/Mainpage/img/t2.png', '../static/Mainpage/img/t3.png','../static/Mainpage/img/t1.png', '../static/Mainpage/img/t2.png', '../static/Mainpage/img/t3.png']
 
 
 
